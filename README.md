@@ -1,7 +1,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solyze&theme=blue-green)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solyze&theme=blue-green)
 <br>
-<br>
 ### My socials are linked on the left side of my profile!
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
