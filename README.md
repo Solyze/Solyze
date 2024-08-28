@@ -4,6 +4,7 @@
 ### My socials are linked on the left side of my profile!
 #### Check out my website: https://solyze.net/
 <br>
+
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 <hr>
