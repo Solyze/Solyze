@@ -2,7 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solyze&theme=blue-green)
 <br>
 ### My socials are linked on the left side of my profile!
-#### Check out my website: https://solyze.net/
+#### Check out my website: [https://solyze.net/](https://solyze.net/){:target="_blank"}
 <br>
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
