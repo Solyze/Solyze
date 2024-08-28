@@ -1,5 +1,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solyze&theme=blue-green)
 ![Website Status](https://img.shields.io/website-up-down-green-red/https/solyze.net)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 <hr>
 
 Languages <br>
