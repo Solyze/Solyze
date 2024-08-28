@@ -6,7 +6,7 @@
 ![Website Status](https://img.shields.io/website-up-down-green-red/https/solyze.net)
 <hr>
 
-# I mostly use: <br>
+### I mostly use: <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
