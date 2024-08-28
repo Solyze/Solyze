@@ -2,9 +2,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solyze&theme=blue-green)
 <br>
 ### My socials are linked on the left side of my profile!
-#### Check out my website: [https://solyze.net/](https://solyze.net/){:target="_blank"}
+#### Check out my website: https://solyze.net/
 <br>
-
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
