@@ -1,3 +1,4 @@
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solyze&theme=blue-green)
 ![Website Status](https://img.shields.io/website-up-down-green-red/https/solyze.net)
 <hr>
 
