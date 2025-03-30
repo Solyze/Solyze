@@ -3,7 +3,7 @@
   <img src="https://streak-stats.demolab.com?user=solyze&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solyze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
-  <br><br>
+  <br>
   <div align="center">
     My socials are linked on the left side of my profile! <br>
     Check out my website: https://solyze.net/
