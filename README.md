@@ -67,5 +67,3 @@
   <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
   </div>
-
-  <hr>
