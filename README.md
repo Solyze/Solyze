@@ -54,6 +54,8 @@
     <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   </div>
 
   <br>
