@@ -11,8 +11,8 @@
   <br>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/NVIDIA-RTX5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intel-Core_i9_14th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/NVIDIA-RTX_5080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Intel-Core_i9_14900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   </div>
   <hr>
 
